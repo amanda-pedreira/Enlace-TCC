@@ -1,6 +1,6 @@
 # 🤟 Enlace — Plataforma para Contratação de Intérpretes de Libras
 
-[![Assista ao Vídeo](https://img.shields.io/badge/📺%20Assistir%20Vídeo-blue?style=for-the-badge)](LINK_DO_SEU_VIDEO)
+[![📺 Assista ao Vídeo](https://img.shields.io/badge/📺%20Assista%20ao%20Vídeo-blue?style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7362274953829695488/)
 
 ---
 
@@ -9,7 +9,7 @@ Plataforma web desenvolvida para facilitar a **conexão entre clientes e intérp
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -36,4 +36,4 @@ O resultado foi um sistema **acessível, inovador e escalável**, que ainda pret
 
 ---
 
-📂 *Código-fonte disponível neste repositório.*  
+*Código-fonte disponível neste repositório.*  
