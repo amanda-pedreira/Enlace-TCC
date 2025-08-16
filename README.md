@@ -20,12 +20,12 @@ Plataforma web desenvolvida para facilitar a **conexão entre clientes e intérp
 ---
 
 ## 📌 Funcionalidades
-- 📅 Cadastro e triagem de intérpretes  
-- 📝 Sistema de agendamento de serviços  
-- 👤 Perfis personalizados para clientes e intérpretes  
-- 🔑 Recuperação de senha e verificação de e-mail  
-- 📄 Páginas de dúvidas, contato e termos de uso  
-- 📱 Responsividade de aproximadamente **80%**
+- Cadastro e triagem de intérpretes  
+- Sistema de agendamento de serviços  
+- Perfis personalizados para clientes e intérpretes  
+- Recuperação de senha e verificação de e-mail  
+- Páginas de dúvidas, contato e termos de uso  
+- Responsividade de aproximadamente **80%**
 
 ---
 
