@@ -39,4 +39,6 @@ Atuei como desenvolvedora e também na organização e gestão do projeto, contr
 
 ---
 
-Código disponibilizado neste repositório para fins acadêmicos e de portfólio.
+⚠️ Este projeto utiliza PHP e MySQL, portanto não é possível executá-lo via GitHub Pages.
+Para testar, é necessário rodar em um ambiente local (XAMPP/WAMP).
+
