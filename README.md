@@ -1,39 +1,39 @@
 # 🤟 Enlace — Plataforma para Contratação de Intérpretes de Libras
 
-[![📺 Assista ao Vídeo](https://img.shields.io/badge/📺%20Assista%20ao%20Vídeo-blue?style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7362274953829695488/)
+Projeto desenvolvido como Trabalho de Conclusão de Curso (ETEC, 2024), representando uma das entregas mais completas da minha formação técnica em Informática para Internet.
+
+O Enlace é uma plataforma web voltada à conexão entre clientes e intérpretes de Libras, permitindo contratação e agendamento de serviços de forma prática e acessível.  
+Este trabalho consolidou minha base em desenvolvimento fullstack e segue como um projeto com possibilidade de evolução e aprimoramento contínuo.
 
 ---
 
-💡 **Projeto TCC — Curso Técnico ETEC (2024)**  
-Plataforma web desenvolvida para facilitar a **conexão entre clientes e intérpretes de Libras**, permitindo agendamento rápido, triagem de profissionais e gestão completa via painel administrativo.  
+## Tecnologias Utilizadas
+
+- PHP  
+- MySQL  
+- HTML5  
+- CSS3  
+- Bootstrap  
+- JavaScript  
 
 ---
 
-##  Tecnologias Utilizadas
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+## Funcionalidades Principais
 
----
-
-## 📌 Funcionalidades
 - Cadastro e triagem de intérpretes  
-- Sistema de agendamento de serviços  
-- Perfis personalizados para clientes e intérpretes  
+- Agendamento de serviços  
+- Perfis personalizados para clientes e profissionais  
 - Recuperação de senha e verificação de e-mail  
-- Páginas de dúvidas, contato e termos de uso  
-- Responsividade de aproximadamente **80%**
+- Páginas institucionais (dúvidas, contato e termos de uso)  
+- Responsividade implementada na maior parte das interfaces (~80%)
 
 ---
 
-## 👥 Equipe & Desenvolvimento
-Projeto construído **em equipe**, com foco **fullstack** (frontend + backend).  
-Atuei como **desenvolvedora** e **gestora do projeto**, garantindo a entrega funcional mesmo com prazo limitado.  
-O resultado foi um sistema **acessível, inovador e escalável**, que ainda pretendo aprimorar no futuro.  
+## Equipe & Atuação
+
+Projeto desenvolvido em equipe, com participação nas etapas de front-end e back-end.  
+Atuei como desenvolvedora e também na organização e gestão do projeto, contribuindo para a entrega funcional dentro do prazo proposto.
 
 ---
 
-*Código-fonte disponível neste repositório.*  
+Código disponibilizado neste repositório para fins acadêmicos e de portfólio.
